@@ -13,8 +13,6 @@ Bem-vindo à recriação da página inicial da Starbucks, um projeto feito por m
 📬 Entre em contato: Se você tiver alguma pergunta ou feedback sobre este projeto, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a colaborações e oportunidades emocionantes.
 
 🌐 Conecte-se comigo:
-
-🌐 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/)
 - [GitHub](https://github.com/eudirianaju)
 
