@@ -16,7 +16,7 @@ Bem-vindo à recriação da página inicial da Starbucks, um projeto feito por m
 - [LinkedIn](https://www.linkedin.com/in/ana-julia-nunes-melo-12855822a/)
 - [GitHub](https://github.com/eudirianaju)
 
-Aproveite a visita à landing page New Home e fique à vontade para explorar o código-fonte deste projeto!
+Aproveite a visita à landing e fique à vontade para explorar o código-fonte deste projeto!
 
 #desenvolvimentoweb #landingpage #webdesign #imaginarycompany
 
